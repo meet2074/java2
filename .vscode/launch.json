@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Multidimentional_array",
+            "request": "launch",
+            "mainClass": "Multidimentional_array",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch for_loop2",
+            "request": "launch",
+            "mainClass": "for_loop2",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch for_loop",
+            "request": "launch",
+            "mainClass": "for_loop",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX1",
+            "request": "launch",
+            "mainClass": "EX1",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Equality_relational_operators",
+            "request": "launch",
+            "mainClass": "Equality_relational_operators",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1_Percentage_calculator",
+            "request": "launch",
+            "mainClass": "Exercise1_Percentage_calculator",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2_rock_paper_sciessor",
+            "request": "launch",
+            "mainClass": "Exercise2_rock_paper_sciessor",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice1_Switch_case",
+            "request": "launch",
+            "mainClass": "Practice1_Switch_case",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice2_Switch_case",
+            "request": "launch",
+            "mainClass": "Practice2_Switch_case",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice3_Switch_case",
+            "request": "launch",
+            "mainClass": "Practice3_Switch_case",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice4_Switch_case",
+            "request": "launch",
+            "mainClass": "Practice4_Switch_case",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Taking_input",
+            "request": "launch",
+            "mainClass": "Taking_input",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch do_while_loop",
+            "request": "launch",
+            "mainClass": "do_while_loop",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch nested_if",
+            "request": "launch",
+            "mainClass": "nested_if",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_case",
+            "request": "launch",
+            "mainClass": "switch_case",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch unery_operator2",
+            "request": "launch",
+            "mainClass": "unery_operator2",
+            "projectName": "java2_4efe95d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch unery_operators",
+            "request": "launch",
+            "mainClass": "unery_operators",
+            "projectName": "java2_4efe95d7"
+        }
+    ]
+}
